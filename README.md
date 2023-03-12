@@ -6,19 +6,6 @@
 [![Scorecards supply-chain security](https://github.com/bancolombia/scaffold-clean-architecture/actions/workflows/scorecards-analysis.yml/badge.svg)](https://github.com/bancolombia/scaffold-clean-architecture/actions/workflows/scorecards-analysis.yml)
 
 
-# APP RESERVAS
-
-El presente proyecto contiene una aplicación para la reserva de citas médicas del consultorio del Doctor Ramiro Fernandez
-para la administración de las historias médicas y el manejo de citas de sus pacientes.
-
-A continuación se da conocer el modelamiento que se tuvo en cuanta para realizar dicho proyecto:
-
-- Modelo Estratégico
-    ![img.png](img/estrategico.png)
-
-- Modelo Táctico
-  ![img.png](img/tactico.png)
-    
 # Scaffolding of Clean Architecture
 
 Gradle plugin to create a java and kotlin application based on Clean Architecture following our best practices!
